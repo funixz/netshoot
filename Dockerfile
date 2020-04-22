@@ -21,6 +21,7 @@ RUN set -ex \
     fping \
     iftop \
     iperf \
+    iperf3 \
     iproute2 \
     ipset \
     iptables \
@@ -38,6 +39,7 @@ RUN set -ex \
     nmap \
     nmap-nping \
     openssl \
+    ping6 \
     py-crypto \
     py2-virtualenv \
     python2 \
